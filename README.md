@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haili Sambrano</h1>
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **HTML, CSS and JavaScript**
 
 - 📫 How to reach me **hailisambrano@pm.me**
 
