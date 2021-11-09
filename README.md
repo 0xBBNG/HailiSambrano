@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Haili Sambrano</h1>
+<h1 align="center">Hi 👋</h1>
+<h2 align="center">I'm Haili Sambrano</h2>
 
 - 🌱 I’m currently learning **HTML, CSS and JavaScript**
 
